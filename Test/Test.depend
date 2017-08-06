@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502012925 source:/home/atulk/Desktop/Projects/Github/Test/Test/main.c
+	<stdio.h>
+	<stdlib.h>
+
